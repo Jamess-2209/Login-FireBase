@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286462646009",
+    "project_id": "james-99d5a",
+    "storage_bucket": "james-99d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286462646009:android:ce3c8de7c1426e39393428",
+        "android_client_info": {
+          "package_name": "com.form.james"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286462646009-d2gu4anr607a1aaul1elnpat81c1kqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.form.james",
+            "certificate_hash": "aa0f27eacfba9b7f687b4d835e7f43b3d3eb04e1"
+          }
+        },
+        {
+          "client_id": "286462646009-7bjsjk2r41nbgssr5ek21t2024250kbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXI1dugiPtlDjo_iynV1bKbF1JJQhA7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286462646009-7bjsjk2r41nbgssr5ek21t2024250kbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
